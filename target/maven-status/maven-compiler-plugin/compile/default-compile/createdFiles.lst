@@ -1,0 +1,13 @@
+com\grsollinger\migration\AWSToAzure.class
+com\grsollinger\migration\lambda\ListLambas.class
+com\grsollinger\migration\secrets\GetKeyValueSecret.class
+com\grsollinger\EService.class
+com\grsollinger\MigrationApp.class
+com\grsollinger\migration\IMigrationProcess.class
+com\grsollinger\migration\secrets\SecretInformation.class
+com\grsollinger\migration\secrets\CreateSecretClient.class
+com\grsollinger\migration\secrets\GetSecretPolicy.class
+com\grsollinger\migration\secrets\ListSecrets.class
+com\grsollinger\migration\IService.class
+com\grsollinger\migration\aws\AWSConfiguration.class
+com\grsollinger\migration\AWSToAzure$1.class

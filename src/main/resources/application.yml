@@ -1,0 +1,6 @@
+spring:
+  main:
+    lazy-initialization: false
+
+AWSConfiguration:
+    region: us-east-1

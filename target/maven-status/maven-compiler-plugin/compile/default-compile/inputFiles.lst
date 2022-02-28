@@ -1,0 +1,12 @@
+D:\Development\Workspace\trimble-workspace\awsazmig\src\main\java\com\grsollinger\migration\lambda\ListLambas.java
+D:\Development\Workspace\trimble-workspace\awsazmig\src\main\java\com\grsollinger\migration\secrets\SecretInformation.java
+D:\Development\Workspace\trimble-workspace\awsazmig\src\main\java\com\grsollinger\MigrationApp.java
+D:\Development\Workspace\trimble-workspace\awsazmig\src\main\java\com\grsollinger\migration\IService.java
+D:\Development\Workspace\trimble-workspace\awsazmig\src\main\java\com\grsollinger\migration\secrets\GetKeyValueSecret.java
+D:\Development\Workspace\trimble-workspace\awsazmig\src\main\java\com\grsollinger\migration\aws\AWSConfiguration.java
+D:\Development\Workspace\trimble-workspace\awsazmig\src\main\java\com\grsollinger\migration\IMigrationProcess.java
+D:\Development\Workspace\trimble-workspace\awsazmig\src\main\java\com\grsollinger\EService.java
+D:\Development\Workspace\trimble-workspace\awsazmig\src\main\java\com\grsollinger\migration\AWSToAzure.java
+D:\Development\Workspace\trimble-workspace\awsazmig\src\main\java\com\grsollinger\migration\secrets\CreateSecretClient.java
+D:\Development\Workspace\trimble-workspace\awsazmig\src\main\java\com\grsollinger\migration\secrets\ListSecrets.java
+D:\Development\Workspace\trimble-workspace\awsazmig\src\main\java\com\grsollinger\migration\secrets\GetSecretPolicy.java

@@ -1,0 +1,375 @@
+[INFO ] 2022-02-09 19:20:04.205 [com.grsollinger.MigrationApp.main()] MigrationApp - Starting Migration Process AWS to Azure SECRETS------------------------------
+[INFO ] 2022-02-09 19:20:04.767 [com.grsollinger.MigrationApp.main()] MigrationApp - Starting MigrationApp using Java 11.0.13 on LNOR080727 with PID 9148 (D:\Development\Workspace\trimble-workspace\awsazmig\target\classes started by gsolling in D:\Development\Workspace\trimble-workspace\awsazmig)
+[DEBUG] 2022-02-09 19:20:04.768 [com.grsollinger.MigrationApp.main()] MigrationApp - Running with Spring Boot v2.4.0, Spring v5.3.1
+[INFO ] 2022-02-09 19:20:04.768 [com.grsollinger.MigrationApp.main()] MigrationApp - No active profile set, falling back to default profiles: default
+[INFO ] 2022-02-09 19:20:05.260 [com.grsollinger.MigrationApp.main()] MigrationApp - Started MigrationApp in 0.948 seconds (JVM running for 9.863)
+[INFO ] 2022-02-09 19:20:05.265 [com.grsollinger.MigrationApp.main()] AWSToAzure - Migration From AWS to Azure Started - Region = us-east-1
+[INFO ] 2022-02-09 19:20:05.266 [com.grsollinger.MigrationApp.main()] AWSToAzure - Migration From AWS to Azure Started - Arguments = SECRETS
+[INFO ] 2022-02-09 19:20:05.267 [com.grsollinger.MigrationApp.main()] AWSToAzure - AWS Secrets Manager to Azure Vault
+[INFO ] 2022-02-09 19:20:05.268 [com.grsollinger.MigrationApp.main()] AWSToAzure - AWS Lambda to Azure Functions
+[INFO ] 2022-02-09 19:20:05.269 [com.grsollinger.MigrationApp.main()] ListSecrets - List Secrets for Region = us-east-1
+[INFO ] 2022-02-09 19:20:07.318 [com.grsollinger.MigrationApp.main()] ListSecrets - Amount of Secrets found = 0
+[INFO ] 2022-02-09 19:32:57.245 [com.grsollinger.MigrationApp.main()] MigrationApp - Starting Migration Process AWS to Azure SECRETS------------------------------
+[INFO ] 2022-02-09 19:32:58.043 [com.grsollinger.MigrationApp.main()] MigrationApp - Starting MigrationApp using Java 11.0.13 on LNOR080727 with PID 38432 (D:\Development\Workspace\trimble-workspace\awsazmig\target\classes started by gsolling in D:\Development\Workspace\trimble-workspace\awsazmig)
+[DEBUG] 2022-02-09 19:32:58.044 [com.grsollinger.MigrationApp.main()] MigrationApp - Running with Spring Boot v2.4.0, Spring v5.3.1
+[INFO ] 2022-02-09 19:32:58.045 [com.grsollinger.MigrationApp.main()] MigrationApp - No active profile set, falling back to default profiles: default
+[INFO ] 2022-02-09 19:32:58.739 [com.grsollinger.MigrationApp.main()] MigrationApp - Started MigrationApp in 1.36 seconds (JVM running for 9.666)
+[INFO ] 2022-02-09 19:32:58.744 [com.grsollinger.MigrationApp.main()] AWSToAzure - Migration From AWS to Azure Started - Region = us-east-1
+[INFO ] 2022-02-09 19:32:58.744 [com.grsollinger.MigrationApp.main()] AWSToAzure - Migration From AWS to Azure Started - Arguments = SECRETS
+[INFO ] 2022-02-09 19:32:58.746 [com.grsollinger.MigrationApp.main()] AWSToAzure - AWS Secrets Manager to Azure Vault
+[INFO ] 2022-02-09 19:32:58.747 [com.grsollinger.MigrationApp.main()] AWSToAzure - AWS Lambda to Azure Functions
+[INFO ] 2022-02-09 19:32:58.747 [com.grsollinger.MigrationApp.main()] ListSecrets - List Secrets for Region = us-east-1
+[INFO ] 2022-02-09 19:33:00.990 [com.grsollinger.MigrationApp.main()] ListSecrets - Amount of Secrets found = 0
+[INFO ] 2022-02-09 19:35:53.406 [com.grsollinger.MigrationApp.main()] MigrationApp - Starting Migration Process AWS to Azure SECRETS------------------------------
+[INFO ] 2022-02-09 19:35:54.046 [com.grsollinger.MigrationApp.main()] MigrationApp - Starting MigrationApp using Java 11.0.13 on LNOR080727 with PID 3088 (D:\Development\Workspace\trimble-workspace\awsazmig\target\classes started by gsolling in D:\Development\Workspace\trimble-workspace\awsazmig)
+[DEBUG] 2022-02-09 19:35:54.048 [com.grsollinger.MigrationApp.main()] MigrationApp - Running with Spring Boot v2.4.0, Spring v5.3.1
+[INFO ] 2022-02-09 19:35:54.049 [com.grsollinger.MigrationApp.main()] MigrationApp - No active profile set, falling back to default profiles: default
+[INFO ] 2022-02-09 19:35:54.724 [com.grsollinger.MigrationApp.main()] MigrationApp - Started MigrationApp in 1.2 seconds (JVM running for 9.467)
+[INFO ] 2022-02-09 19:35:54.731 [com.grsollinger.MigrationApp.main()] AWSToAzure - Migration From AWS to Azure Started - Region = us-east-1
+[INFO ] 2022-02-09 19:35:54.732 [com.grsollinger.MigrationApp.main()] AWSToAzure - Migration From AWS to Azure Started - Arguments = SECRETS
+[INFO ] 2022-02-09 19:35:54.735 [com.grsollinger.MigrationApp.main()] AWSToAzure - AWS Secrets Manager to Azure Vault
+[INFO ] 2022-02-09 19:35:54.735 [com.grsollinger.MigrationApp.main()] AWSToAzure - AWS Lambda to Azure Functions
+[INFO ] 2022-02-09 19:35:54.736 [com.grsollinger.MigrationApp.main()] ListSecrets - List Secrets for Region = us-east-1
+[INFO ] 2022-02-09 19:35:56.874 [com.grsollinger.MigrationApp.main()] ListSecrets - Amount of Secrets found = 1
+[INFO ] 2022-02-09 19:35:56.874 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret name is test/plaintext/trimble
+[INFO ] 2022-02-09 19:35:56.874 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret description is null
+[INFO ] 2022-02-09 19:51:25.367 [com.grsollinger.MigrationApp.main()] MigrationApp - Starting Migration Process AWS to Azure SECRETS------------------------------
+[INFO ] 2022-02-09 19:51:26.029 [com.grsollinger.MigrationApp.main()] MigrationApp - Starting MigrationApp using Java 11.0.13 on LNOR080727 with PID 17476 (D:\Development\Workspace\trimble-workspace\awsazmig\target\classes started by gsolling in D:\Development\Workspace\trimble-workspace\awsazmig)
+[DEBUG] 2022-02-09 19:51:26.031 [com.grsollinger.MigrationApp.main()] MigrationApp - Running with Spring Boot v2.4.0, Spring v5.3.1
+[INFO ] 2022-02-09 19:51:26.031 [com.grsollinger.MigrationApp.main()] MigrationApp - No active profile set, falling back to default profiles: default
+[INFO ] 2022-02-09 19:51:26.777 [com.grsollinger.MigrationApp.main()] MigrationApp - Started MigrationApp in 1.298 seconds (JVM running for 9.989)
+[INFO ] 2022-02-09 19:51:26.785 [com.grsollinger.MigrationApp.main()] AWSToAzure - Migration From AWS to Azure Started - Region = us-east-1
+[INFO ] 2022-02-09 19:51:26.786 [com.grsollinger.MigrationApp.main()] AWSToAzure - Migration From AWS to Azure Started - Arguments = SECRETS
+[INFO ] 2022-02-09 19:51:26.789 [com.grsollinger.MigrationApp.main()] AWSToAzure - AWS Secrets Manager to Azure Vault
+[INFO ] 2022-02-09 19:51:26.789 [com.grsollinger.MigrationApp.main()] AWSToAzure - AWS Lambda to Azure Functions
+[INFO ] 2022-02-09 19:51:26.790 [com.grsollinger.MigrationApp.main()] ListSecrets - List Secrets for Region = us-east-1
+[INFO ] 2022-02-09 19:51:28.981 [com.grsollinger.MigrationApp.main()] ListSecrets - Amount of Secrets found = 1
+[INFO ] 2022-02-09 19:51:28.982 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret name is test/plaintext/trimble
+[INFO ] 2022-02-09 19:51:28.983 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret description is null
+[INFO ] 2022-02-09 19:51:28.984 [com.grsollinger.MigrationApp.main()] ListSecrets - ARN = arn:aws:secretsmanager:us-east-1:275151275639:secret:test/plaintext/trimble-DUiCg2
+[INFO ] 2022-02-09 19:51:28.984 [com.grsollinger.MigrationApp.main()] ListSecrets - Resolving value for Key = test/plaintext/trimble
+[INFO ] 2022-02-09 19:51:29.235 [com.grsollinger.MigrationApp.main()] ListSecrets - Secret = {"test":"trimble"}
+[INFO ] 2022-02-10 11:51:43.890 [com.grsollinger.MigrationApp.main()] MigrationApp - Starting Migration Process AWS to Azure SECRETS------------------------------
+[INFO ] 2022-02-10 11:51:44.614 [com.grsollinger.MigrationApp.main()] MigrationApp - Starting MigrationApp using Java 11.0.13 on LNOR080727 with PID 13476 (D:\Development\Workspace\trimble-workspace\awsazmig\target\classes started by gsolling in D:\Development\Workspace\trimble-workspace\awsazmig)
+[DEBUG] 2022-02-10 11:51:44.615 [com.grsollinger.MigrationApp.main()] MigrationApp - Running with Spring Boot v2.4.0, Spring v5.3.1
+[INFO ] 2022-02-10 11:51:44.616 [com.grsollinger.MigrationApp.main()] MigrationApp - No active profile set, falling back to default profiles: default
+[INFO ] 2022-02-10 11:52:32.566 [com.grsollinger.MigrationApp.main()] MigrationApp - Starting Migration Process AWS to Azure SECRETS------------------------------
+[INFO ] 2022-02-10 11:52:33.250 [com.grsollinger.MigrationApp.main()] MigrationApp - Starting MigrationApp using Java 11.0.13 on LNOR080727 with PID 29036 (D:\Development\Workspace\trimble-workspace\awsazmig\target\classes started by gsolling in D:\Development\Workspace\trimble-workspace\awsazmig)
+[DEBUG] 2022-02-10 11:52:33.251 [com.grsollinger.MigrationApp.main()] MigrationApp - Running with Spring Boot v2.4.0, Spring v5.3.1
+[INFO ] 2022-02-10 11:52:33.251 [com.grsollinger.MigrationApp.main()] MigrationApp - No active profile set, falling back to default profiles: default
+[INFO ] 2022-02-10 11:52:33.877 [com.grsollinger.MigrationApp.main()] MigrationApp - Started MigrationApp in 1.198 seconds (JVM running for 8.896)
+[INFO ] 2022-02-10 11:52:33.885 [com.grsollinger.MigrationApp.main()] AWSToAzure - Migration From AWS to Azure Started - Region = us-east-1
+[INFO ] 2022-02-10 11:52:33.886 [com.grsollinger.MigrationApp.main()] AWSToAzure - Migration From AWS to Azure Started - Arguments = SECRETS
+[INFO ] 2022-02-10 11:52:33.888 [com.grsollinger.MigrationApp.main()] AWSToAzure - AWS Secrets Manager to Azure Vault
+[INFO ] 2022-02-10 11:52:33.889 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-10 11:52:36.621 [com.grsollinger.MigrationApp.main()] ListSecrets - Amount of Secrets found = 1
+[INFO ] 2022-02-10 11:52:36.621 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret name is test/plaintext/trimble
+[INFO ] 2022-02-10 11:52:36.621 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret description is null
+[INFO ] 2022-02-10 11:52:36.622 [com.grsollinger.MigrationApp.main()] ListSecrets - ARN = arn:aws:secretsmanager:us-east-1:275151275639:secret:test/plaintext/trimble-DUiCg2
+[INFO ] 2022-02-10 11:52:36.622 [com.grsollinger.MigrationApp.main()] GetKeyValueSecret - Resolving value for Key = test/plaintext/trimble
+[INFO ] 2022-02-10 11:52:36.625 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-10 11:52:37.480 [com.grsollinger.MigrationApp.main()] ListSecrets - Secret = {"test":"trimble"}
+[INFO ] 2022-02-11 15:34:36.578 [com.grsollinger.MigrationApp.main()] MigrationApp - Starting Migration Process AWS to Azure SECRETS------------------------------
+[INFO ] 2022-02-11 15:34:37.660 [com.grsollinger.MigrationApp.main()] MigrationApp - Starting MigrationApp using Java 11.0.13 on LNOR080727 with PID 12604 (D:\Development\Workspace\trimble-workspace\awsazmig\target\classes started by gsolling in D:\Development\Workspace\trimble-workspace\awsazmig)
+[DEBUG] 2022-02-11 15:34:37.661 [com.grsollinger.MigrationApp.main()] MigrationApp - Running with Spring Boot v2.4.0, Spring v5.3.1
+[INFO ] 2022-02-11 15:34:37.661 [com.grsollinger.MigrationApp.main()] MigrationApp - No active profile set, falling back to default profiles: default
+[INFO ] 2022-02-11 15:34:38.298 [com.grsollinger.MigrationApp.main()] MigrationApp - Started MigrationApp in 1.494 seconds (JVM running for 11.658)
+[INFO ] 2022-02-11 15:34:38.306 [com.grsollinger.MigrationApp.main()] AWSToAzure - Migration From AWS to Azure Started - Region = us-east-1
+[INFO ] 2022-02-11 15:34:38.307 [com.grsollinger.MigrationApp.main()] AWSToAzure - Migration From AWS to Azure Started - Arguments = SECRETS
+[INFO ] 2022-02-11 15:34:38.311 [com.grsollinger.MigrationApp.main()] AWSToAzure - AWS Secrets Manager to Azure Vault
+[INFO ] 2022-02-11 15:34:38.312 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-11 15:34:41.403 [com.grsollinger.MigrationApp.main()] ListSecrets - Amount of Secrets found = 1
+[INFO ] 2022-02-11 15:34:41.406 [com.grsollinger.MigrationApp.main()] GetKeyValueSecret - Resolving value for Key = test/plaintext/trimble
+[INFO ] 2022-02-11 15:34:41.411 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-11 15:34:42.253 [com.grsollinger.MigrationApp.main()] GetSecretPolicy - getPolicy(String) - key = test/plaintext/trimble
+[INFO ] 2022-02-11 15:34:42.258 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-11 15:34:43.205 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret name is test/plaintext/trimble
+[INFO ] 2022-02-11 15:34:43.206 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret description is null
+[INFO ] 2022-02-11 15:34:43.207 [com.grsollinger.MigrationApp.main()] ListSecrets - ARN = arn:aws:secretsmanager:us-east-1:275151275639:secret:test/plaintext/trimble-DUiCg2
+[INFO ] 2022-02-11 15:34:43.208 [com.grsollinger.MigrationApp.main()] ListSecrets - Secret = {"test":"trimble"}
+[INFO ] 2022-02-11 15:34:43.209 [com.grsollinger.MigrationApp.main()] ListSecrets - KMS Key Id null
+[INFO ] 2022-02-11 15:34:43.210 [com.grsollinger.MigrationApp.main()] ListSecrets - Policy = null
+[INFO ] 2022-02-22 18:14:33.997 [com.grsollinger.MigrationApp.main()] MigrationApp - Starting Migration Process AWS to Azure SECRETS------------------------------
+[INFO ] 2022-02-22 18:14:34.804 [com.grsollinger.MigrationApp.main()] MigrationApp - Starting MigrationApp using Java 11.0.13 on LNOR080727 with PID 30312 (D:\Development\Workspace\trimble-workspace\awsazmig\target\classes started by gsolling in D:\Development\Workspace\trimble-workspace\awsazmig)
+[DEBUG] 2022-02-22 18:14:34.806 [com.grsollinger.MigrationApp.main()] MigrationApp - Running with Spring Boot v2.4.0, Spring v5.3.1
+[INFO ] 2022-02-22 18:14:34.806 [com.grsollinger.MigrationApp.main()] MigrationApp - No active profile set, falling back to default profiles: default
+[INFO ] 2022-02-22 18:14:35.850 [com.grsollinger.MigrationApp.main()] MigrationApp - Started MigrationApp in 1.699 seconds (JVM running for 14.718)
+[INFO ] 2022-02-22 18:14:35.856 [com.grsollinger.MigrationApp.main()] AWSToAzure - Migration From AWS to Azure Started - Region = us-east-1
+[INFO ] 2022-02-22 18:14:35.856 [com.grsollinger.MigrationApp.main()] AWSToAzure - Migration From AWS to Azure Started - Arguments = SECRETS
+[INFO ] 2022-02-22 18:14:35.857 [com.grsollinger.MigrationApp.main()] AWSToAzure - AWS Secrets Manager to Azure Vault
+[INFO ] 2022-02-22 18:14:35.858 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-22 18:14:39.148 [com.grsollinger.MigrationApp.main()] ListSecrets - Amount of Secrets found = 2
+[INFO ] 2022-02-22 18:14:39.150 [com.grsollinger.MigrationApp.main()] GetKeyValueSecret - Resolving value for Key = test/plaintext/trimble
+[INFO ] 2022-02-22 18:14:39.152 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-22 18:14:40.018 [com.grsollinger.MigrationApp.main()] GetSecretPolicy - getPolicy(String) - key = test/plaintext/trimble
+[INFO ] 2022-02-22 18:14:40.020 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-22 18:14:40.977 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret name is test/plaintext/trimble
+[INFO ] 2022-02-22 18:14:40.977 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret description is null
+[INFO ] 2022-02-22 18:14:40.986 [com.grsollinger.MigrationApp.main()] ListSecrets - ARN = arn:aws:secretsmanager:us-east-1:275151275639:secret:test/plaintext/trimble-DUiCg2
+[INFO ] 2022-02-22 18:14:40.987 [com.grsollinger.MigrationApp.main()] ListSecrets - Secret = {"test":"trimble"}
+[INFO ] 2022-02-22 18:14:40.987 [com.grsollinger.MigrationApp.main()] ListSecrets - KMS Key Id null
+[INFO ] 2022-02-22 18:14:40.989 [com.grsollinger.MigrationApp.main()] ListSecrets - Policy = null
+[INFO ] 2022-02-22 18:14:40.990 [com.grsollinger.MigrationApp.main()] GetKeyValueSecret - Resolving value for Key = dev/trimbe/dbenc
+[INFO ] 2022-02-22 18:14:40.990 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-22 18:14:41.891 [com.grsollinger.MigrationApp.main()] GetSecretPolicy - getPolicy(String) - key = dev/trimbe/dbenc
+[INFO ] 2022-02-22 18:14:41.892 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-22 18:14:42.902 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret name is dev/trimbe/dbenc
+[INFO ] 2022-02-22 18:14:42.902 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret description is DB Aurora Postgres DEV db encrypted
+[INFO ] 2022-02-22 18:14:42.902 [com.grsollinger.MigrationApp.main()] ListSecrets - ARN = arn:aws:secretsmanager:us-east-1:275151275639:secret:dev/trimbe/dbenc-K2JipM
+[INFO ] 2022-02-22 18:14:42.902 [com.grsollinger.MigrationApp.main()] ListSecrets - Secret = {"username":"db","password":"dbpassword","engine":"postgres","host":"database-1.ca12dmdxsjuu.us-east-1.rds.amazonaws.com","port":5432,"dbInstanceIdentifier":"database-1"}
+[INFO ] 2022-02-22 18:14:42.902 [com.grsollinger.MigrationApp.main()] ListSecrets - KMS Key Id arn:aws:kms:us-east-1:275151275639:key/31b8e29f-185d-4939-a0c2-009e538d3672
+[INFO ] 2022-02-22 18:14:42.903 [com.grsollinger.MigrationApp.main()] ListSecrets - Policy = null
+[INFO ] 2022-02-24 15:03:32.003 [com.grsollinger.MigrationApp.main()] MigrationApp - Starting Migration Process AWS to Azure SECRETS------------------------------
+[INFO ] 2022-02-24 15:03:33.067 [com.grsollinger.MigrationApp.main()] MigrationApp - Starting MigrationApp using Java 11.0.13 on LNOR080727 with PID 14516 (D:\Development\Workspace\trimble-workspace\awsazmig\target\classes started by gsolling in D:\Development\Workspace\trimble-workspace\awsazmig)
+[DEBUG] 2022-02-24 15:03:33.068 [com.grsollinger.MigrationApp.main()] MigrationApp - Running with Spring Boot v2.4.0, Spring v5.3.1
+[INFO ] 2022-02-24 15:03:33.068 [com.grsollinger.MigrationApp.main()] MigrationApp - No active profile set, falling back to default profiles: default
+[INFO ] 2022-02-24 15:03:33.897 [com.grsollinger.MigrationApp.main()] MigrationApp - Started MigrationApp in 1.722 seconds (JVM running for 15.583)
+[INFO ] 2022-02-24 15:03:33.909 [com.grsollinger.MigrationApp.main()] AWSToAzure - Migration From AWS to Azure Started - Region = us-east-1
+[INFO ] 2022-02-24 15:03:33.909 [com.grsollinger.MigrationApp.main()] AWSToAzure - Migration From AWS to Azure Started - Arguments = SECRETS
+[INFO ] 2022-02-24 15:03:33.909 [com.grsollinger.MigrationApp.main()] AWSToAzure - AWS Secrets Manager to Azure Vault
+[INFO ] 2022-02-24 15:03:33.916 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-24 15:03:37.052 [com.grsollinger.MigrationApp.main()] ListSecrets - Amount of Secrets found = 2
+[INFO ] 2022-02-24 15:03:37.053 [com.grsollinger.MigrationApp.main()] GetKeyValueSecret - Resolving value for Key = test/plaintext/trimble
+[INFO ] 2022-02-24 15:03:37.056 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-24 15:03:37.849 [com.grsollinger.MigrationApp.main()] GetSecretPolicy - getPolicy(String) - key = test/plaintext/trimble
+[INFO ] 2022-02-24 15:03:37.855 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-24 15:03:38.747 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret name is test/plaintext/trimble
+[INFO ] 2022-02-24 15:03:38.752 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret description is null
+[INFO ] 2022-02-24 15:03:38.753 [com.grsollinger.MigrationApp.main()] ListSecrets - ARN = arn:aws:secretsmanager:us-east-1:275151275639:secret:test/plaintext/trimble-DUiCg2
+[INFO ] 2022-02-24 15:03:38.753 [com.grsollinger.MigrationApp.main()] ListSecrets - Secret = {"test":"trimble"}
+[INFO ] 2022-02-24 15:03:38.754 [com.grsollinger.MigrationApp.main()] ListSecrets - KMS Key Id null
+[INFO ] 2022-02-24 15:03:38.755 [com.grsollinger.MigrationApp.main()] ListSecrets - Policy = null
+[INFO ] 2022-02-24 15:03:38.755 [com.grsollinger.MigrationApp.main()] GetKeyValueSecret - Resolving value for Key = dev/trimbe/dbenc
+[INFO ] 2022-02-24 15:03:38.756 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-24 15:03:39.739 [com.grsollinger.MigrationApp.main()] GetSecretPolicy - getPolicy(String) - key = dev/trimbe/dbenc
+[INFO ] 2022-02-24 15:03:39.739 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-24 15:03:40.545 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret name is dev/trimbe/dbenc
+[INFO ] 2022-02-24 15:03:40.545 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret description is DB Aurora Postgres DEV db encrypted
+[INFO ] 2022-02-24 15:03:40.546 [com.grsollinger.MigrationApp.main()] ListSecrets - ARN = arn:aws:secretsmanager:us-east-1:275151275639:secret:dev/trimbe/dbenc-K2JipM
+[INFO ] 2022-02-24 15:03:40.546 [com.grsollinger.MigrationApp.main()] ListSecrets - Secret = {"username":"db","password":"dbpassword","engine":"postgres","host":"database-1.ca12dmdxsjuu.us-east-1.rds.amazonaws.com","port":5432,"dbInstanceIdentifier":"database-1"}
+[INFO ] 2022-02-24 15:03:40.547 [com.grsollinger.MigrationApp.main()] ListSecrets - KMS Key Id arn:aws:kms:us-east-1:275151275639:key/31b8e29f-185d-4939-a0c2-009e538d3672
+[INFO ] 2022-02-24 15:03:40.547 [com.grsollinger.MigrationApp.main()] ListSecrets - Policy = null
+[INFO ] 2022-02-24 15:24:03.684 [com.grsollinger.MigrationApp.main()] MigrationApp - Starting Migration Process AWS to Azure SECRETS------------------------------
+[INFO ] 2022-02-24 15:24:05.025 [com.grsollinger.MigrationApp.main()] MigrationApp - Starting MigrationApp using Java 11.0.13 on LNOR080727 with PID 13448 (D:\Development\Workspace\trimble-workspace\awsazmig\target\classes started by gsolling in D:\Development\Workspace\trimble-workspace\awsazmig)
+[DEBUG] 2022-02-24 15:24:05.027 [com.grsollinger.MigrationApp.main()] MigrationApp - Running with Spring Boot v2.4.0, Spring v5.3.1
+[INFO ] 2022-02-24 15:24:05.029 [com.grsollinger.MigrationApp.main()] MigrationApp - No active profile set, falling back to default profiles: default
+[INFO ] 2022-02-24 15:24:06.148 [com.grsollinger.MigrationApp.main()] MigrationApp - Started MigrationApp in 2.246 seconds (JVM running for 16.09)
+[INFO ] 2022-02-24 15:24:06.163 [com.grsollinger.MigrationApp.main()] AWSToAzure - Migration From AWS to Azure Started - Region = us-east-1
+[INFO ] 2022-02-24 15:24:06.164 [com.grsollinger.MigrationApp.main()] AWSToAzure - Migration From AWS to Azure Started - Arguments = SECRETS
+[INFO ] 2022-02-24 15:24:06.166 [com.grsollinger.MigrationApp.main()] AWSToAzure - AWS Secrets Manager to Azure Vault
+[INFO ] 2022-02-24 15:24:06.167 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-24 15:24:08.959 [com.grsollinger.MigrationApp.main()] ListSecrets - Amount of Secrets found = 3
+[INFO ] 2022-02-24 15:24:08.960 [com.grsollinger.MigrationApp.main()] GetKeyValueSecret - Resolving value for Key = test/plaintext/trimble
+[INFO ] 2022-02-24 15:24:08.968 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-24 15:24:10.450 [com.grsollinger.MigrationApp.main()] GetSecretPolicy - getPolicy(String) - key = test/plaintext/trimble
+[INFO ] 2022-02-24 15:24:10.453 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-24 15:24:11.338 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret name is test/plaintext/trimble
+[INFO ] 2022-02-24 15:24:11.344 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret description is null
+[INFO ] 2022-02-24 15:24:11.345 [com.grsollinger.MigrationApp.main()] ListSecrets - ARN = arn:aws:secretsmanager:us-east-1:275151275639:secret:test/plaintext/trimble-DUiCg2
+[INFO ] 2022-02-24 15:24:11.347 [com.grsollinger.MigrationApp.main()] ListSecrets - Secret = {"test":"trimble"}
+[INFO ] 2022-02-24 15:24:11.348 [com.grsollinger.MigrationApp.main()] ListSecrets - KMS Key Id null
+[INFO ] 2022-02-24 15:24:11.349 [com.grsollinger.MigrationApp.main()] ListSecrets - Policy = null
+[INFO ] 2022-02-24 15:24:11.350 [com.grsollinger.MigrationApp.main()] GetKeyValueSecret - Resolving value for Key = dev/trimbe/dbenc
+[INFO ] 2022-02-24 15:24:11.350 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-24 15:24:12.308 [com.grsollinger.MigrationApp.main()] GetSecretPolicy - getPolicy(String) - key = dev/trimbe/dbenc
+[INFO ] 2022-02-24 15:24:12.309 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-24 15:24:13.158 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret name is dev/trimbe/dbenc
+[INFO ] 2022-02-24 15:24:13.158 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret description is DB Aurora Postgres DEV db encrypted
+[INFO ] 2022-02-24 15:24:13.159 [com.grsollinger.MigrationApp.main()] ListSecrets - ARN = arn:aws:secretsmanager:us-east-1:275151275639:secret:dev/trimbe/dbenc-K2JipM
+[INFO ] 2022-02-24 15:24:13.160 [com.grsollinger.MigrationApp.main()] ListSecrets - Secret = {"username":"db","password":"dbpassword","engine":"postgres","host":"database-1.ca12dmdxsjuu.us-east-1.rds.amazonaws.com","port":5432,"dbInstanceIdentifier":"database-1"}
+[INFO ] 2022-02-24 15:24:13.161 [com.grsollinger.MigrationApp.main()] ListSecrets - KMS Key Id arn:aws:kms:us-east-1:275151275639:key/31b8e29f-185d-4939-a0c2-009e538d3672
+[INFO ] 2022-02-24 15:24:13.161 [com.grsollinger.MigrationApp.main()] ListSecrets - Policy = null
+[INFO ] 2022-02-24 15:24:13.162 [com.grsollinger.MigrationApp.main()] GetKeyValueSecret - Resolving value for Key = prod/trimble/db/user2
+[INFO ] 2022-02-24 15:24:13.162 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-24 15:24:14.041 [com.grsollinger.MigrationApp.main()] GetSecretPolicy - getPolicy(String) - key = prod/trimble/db/user2
+[INFO ] 2022-02-24 15:24:14.041 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-24 15:24:14.911 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret name is prod/trimble/db/user2
+[INFO ] 2022-02-24 15:24:14.911 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret description is Access to same DB --- user 2
+[INFO ] 2022-02-24 15:24:14.912 [com.grsollinger.MigrationApp.main()] ListSecrets - ARN = arn:aws:secretsmanager:us-east-1:275151275639:secret:prod/trimble/db/user2-Qlwec8
+[INFO ] 2022-02-24 15:24:14.912 [com.grsollinger.MigrationApp.main()] ListSecrets - Secret = {"username":"db2","password":"mypassword","engine":"postgres","host":"database-1.ca12dmdxsjuu.us-east-1.rds.amazonaws.com","port":5432,"dbInstanceIdentifier":"database-1"}
+[INFO ] 2022-02-24 15:24:14.913 [com.grsollinger.MigrationApp.main()] ListSecrets - KMS Key Id arn:aws:kms:us-east-1:275151275639:key/31b8e29f-185d-4939-a0c2-009e538d3672
+[INFO ] 2022-02-24 15:24:14.913 [com.grsollinger.MigrationApp.main()] ListSecrets - Policy = null
+[INFO ] 2022-02-24 15:27:42.477 [com.grsollinger.MigrationApp.main()] MigrationApp - Starting Migration Process AWS to Azure SECRETS------------------------------
+[INFO ] 2022-02-24 15:27:43.164 [com.grsollinger.MigrationApp.main()] MigrationApp - Starting MigrationApp using Java 11.0.13 on LNOR080727 with PID 6056 (D:\Development\Workspace\trimble-workspace\awsazmig\target\classes started by gsolling in D:\Development\Workspace\trimble-workspace\awsazmig)
+[DEBUG] 2022-02-24 15:27:43.165 [com.grsollinger.MigrationApp.main()] MigrationApp - Running with Spring Boot v2.4.0, Spring v5.3.1
+[INFO ] 2022-02-24 15:27:43.165 [com.grsollinger.MigrationApp.main()] MigrationApp - No active profile set, falling back to default profiles: default
+[INFO ] 2022-02-24 15:27:43.782 [com.grsollinger.MigrationApp.main()] MigrationApp - Started MigrationApp in 1.204 seconds (JVM running for 8.998)
+[INFO ] 2022-02-24 15:27:43.795 [com.grsollinger.MigrationApp.main()] AWSToAzure - Migration From AWS to Azure Started - Region = us-east-1
+[INFO ] 2022-02-24 15:27:43.795 [com.grsollinger.MigrationApp.main()] AWSToAzure - Migration From AWS to Azure Started - Arguments = SECRETS
+[INFO ] 2022-02-24 15:27:43.798 [com.grsollinger.MigrationApp.main()] AWSToAzure - AWS Secrets Manager to Azure Vault
+[INFO ] 2022-02-24 15:27:43.799 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-24 15:27:46.225 [com.grsollinger.MigrationApp.main()] ListSecrets - Amount of Secrets found = 3
+[INFO ] 2022-02-24 15:27:46.225 [com.grsollinger.MigrationApp.main()] GetKeyValueSecret - Resolving value for Key = test/plaintext/trimble
+[INFO ] 2022-02-24 15:27:46.225 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-24 15:27:47.242 [com.grsollinger.MigrationApp.main()] GetSecretPolicy - getPolicy(String) - key = test/plaintext/trimble
+[INFO ] 2022-02-24 15:27:47.248 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-24 15:27:48.109 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret name is test/plaintext/trimble
+[INFO ] 2022-02-24 15:27:48.109 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret description is null
+[INFO ] 2022-02-24 15:27:48.120 [com.grsollinger.MigrationApp.main()] ListSecrets - ARN = arn:aws:secretsmanager:us-east-1:275151275639:secret:test/plaintext/trimble-DUiCg2
+[INFO ] 2022-02-24 15:27:48.121 [com.grsollinger.MigrationApp.main()] ListSecrets - Secret = {"test":"trimble"}
+[INFO ] 2022-02-24 15:27:48.121 [com.grsollinger.MigrationApp.main()] ListSecrets - KMS Key Id null
+[INFO ] 2022-02-24 15:27:48.123 [com.grsollinger.MigrationApp.main()] ListSecrets - Policy = null
+[INFO ] 2022-02-24 15:27:48.123 [com.grsollinger.MigrationApp.main()] GetKeyValueSecret - Resolving value for Key = dev/trimbe/dbenc
+[INFO ] 2022-02-24 15:27:48.123 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-24 15:27:48.972 [com.grsollinger.MigrationApp.main()] GetSecretPolicy - getPolicy(String) - key = dev/trimbe/dbenc
+[INFO ] 2022-02-24 15:27:48.972 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-24 15:27:49.826 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret name is dev/trimbe/dbenc
+[INFO ] 2022-02-24 15:27:49.826 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret description is DB Aurora Postgres DEV db encrypted
+[INFO ] 2022-02-24 15:27:49.829 [com.grsollinger.MigrationApp.main()] ListSecrets - ARN = arn:aws:secretsmanager:us-east-1:275151275639:secret:dev/trimbe/dbenc-K2JipM
+[INFO ] 2022-02-24 15:27:49.829 [com.grsollinger.MigrationApp.main()] ListSecrets - Secret = {"username":"db","password":"dbpassword","engine":"postgres","host":"database-1.ca12dmdxsjuu.us-east-1.rds.amazonaws.com","port":5432,"dbInstanceIdentifier":"database-1"}
+[INFO ] 2022-02-24 15:27:49.830 [com.grsollinger.MigrationApp.main()] ListSecrets - KMS Key Id arn:aws:kms:us-east-1:275151275639:key/31b8e29f-185d-4939-a0c2-009e538d3672
+[INFO ] 2022-02-24 15:27:49.830 [com.grsollinger.MigrationApp.main()] ListSecrets - Policy = null
+[INFO ] 2022-02-24 15:27:49.830 [com.grsollinger.MigrationApp.main()] GetKeyValueSecret - Resolving value for Key = prod/trimble/db/user2
+[INFO ] 2022-02-24 15:27:49.831 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-24 15:27:50.667 [com.grsollinger.MigrationApp.main()] GetSecretPolicy - getPolicy(String) - key = prod/trimble/db/user2
+[INFO ] 2022-02-24 15:27:50.669 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-24 15:27:51.505 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret name is prod/trimble/db/user2
+[INFO ] 2022-02-24 15:27:51.506 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret description is Access to same DB --- user 2
+[INFO ] 2022-02-24 15:27:51.506 [com.grsollinger.MigrationApp.main()] ListSecrets - ARN = arn:aws:secretsmanager:us-east-1:275151275639:secret:prod/trimble/db/user2-Qlwec8
+[INFO ] 2022-02-24 15:27:51.507 [com.grsollinger.MigrationApp.main()] ListSecrets - Secret = {"username":"db2","password":"mypassword","engine":"postgres","host":"database-1.ca12dmdxsjuu.us-east-1.rds.amazonaws.com","port":5432,"dbInstanceIdentifier":"database-1"}
+[INFO ] 2022-02-24 15:27:51.508 [com.grsollinger.MigrationApp.main()] ListSecrets - KMS Key Id arn:aws:kms:us-east-1:275151275639:alias/catrobot
+[INFO ] 2022-02-24 15:27:51.509 [com.grsollinger.MigrationApp.main()] ListSecrets - Policy = null
+[INFO ] 2022-02-25 10:22:02.105 [com.grsollinger.MigrationApp.main()] MigrationApp - Starting Migration Process AWS to Azure SECRETS------------------------------
+[INFO ] 2022-02-25 10:22:02.970 [com.grsollinger.MigrationApp.main()] MigrationApp - Starting MigrationApp using Java 11.0.13 on LNOR080727 with PID 5384 (D:\Development\Workspace\trimble-workspace\awsazmig\target\classes started by gsolling in D:\Development\Workspace\trimble-workspace\awsazmig)
+[DEBUG] 2022-02-25 10:22:02.972 [com.grsollinger.MigrationApp.main()] MigrationApp - Running with Spring Boot v2.4.0, Spring v5.3.1
+[INFO ] 2022-02-25 10:22:02.973 [com.grsollinger.MigrationApp.main()] MigrationApp - No active profile set, falling back to default profiles: default
+[INFO ] 2022-02-25 10:22:03.592 [com.grsollinger.MigrationApp.main()] MigrationApp - Started MigrationApp in 1.342 seconds (JVM running for 12.052)
+[INFO ] 2022-02-25 10:22:03.598 [com.grsollinger.MigrationApp.main()] AWSToAzure - Migration From AWS to Azure Started - Region = us-east-1
+[INFO ] 2022-02-25 10:22:03.598 [com.grsollinger.MigrationApp.main()] AWSToAzure - Migration From AWS to Azure Started - Arguments = SECRETS
+[INFO ] 2022-02-25 10:22:03.600 [com.grsollinger.MigrationApp.main()] AWSToAzure - AWS Secrets Manager to Azure Vault
+[INFO ] 2022-02-25 10:22:03.600 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-25 10:22:06.763 [com.grsollinger.MigrationApp.main()] ListSecrets - Amount of Secrets found = 3
+[INFO ] 2022-02-25 10:22:06.771 [com.grsollinger.MigrationApp.main()] GetKeyValueSecret - Resolving value for Key = test/plaintext/trimble
+[INFO ] 2022-02-25 10:22:06.773 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-25 10:22:07.639 [com.grsollinger.MigrationApp.main()] GetSecretPolicy - getPolicy(String) - key = test/plaintext/trimble
+[INFO ] 2022-02-25 10:22:07.646 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-25 10:22:08.543 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret name is test/plaintext/trimble
+[INFO ] 2022-02-25 10:22:08.551 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret description is null
+[INFO ] 2022-02-25 10:22:08.552 [com.grsollinger.MigrationApp.main()] ListSecrets - ARN = arn:aws:secretsmanager:us-east-1:275151275639:secret:test/plaintext/trimble-DUiCg2
+[INFO ] 2022-02-25 10:22:08.554 [com.grsollinger.MigrationApp.main()] ListSecrets - Secret = {"test":"trimble"}
+[INFO ] 2022-02-25 10:22:08.555 [com.grsollinger.MigrationApp.main()] ListSecrets - KMS Key Id null
+[INFO ] 2022-02-25 10:22:08.556 [com.grsollinger.MigrationApp.main()] ListSecrets - Policy = null
+[INFO ] 2022-02-25 10:22:08.556 [com.grsollinger.MigrationApp.main()] GetKeyValueSecret - Resolving value for Key = dev/trimbe/dbenc
+[INFO ] 2022-02-25 10:22:08.557 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-25 10:22:09.511 [com.grsollinger.MigrationApp.main()] GetSecretPolicy - getPolicy(String) - key = dev/trimbe/dbenc
+[INFO ] 2022-02-25 10:22:09.511 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-25 10:22:10.386 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret name is dev/trimbe/dbenc
+[INFO ] 2022-02-25 10:22:10.386 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret description is DB Aurora Postgres DEV db encrypted
+[INFO ] 2022-02-25 10:22:10.386 [com.grsollinger.MigrationApp.main()] ListSecrets - ARN = arn:aws:secretsmanager:us-east-1:275151275639:secret:dev/trimbe/dbenc-K2JipM
+[INFO ] 2022-02-25 10:22:10.389 [com.grsollinger.MigrationApp.main()] ListSecrets - Secret = {"username":"db","password":"dbpassword","engine":"postgres","host":"database-1.ca12dmdxsjuu.us-east-1.rds.amazonaws.com","port":5432,"dbInstanceIdentifier":"database-1"}
+[INFO ] 2022-02-25 10:22:10.389 [com.grsollinger.MigrationApp.main()] ListSecrets - KMS Key Id arn:aws:kms:us-east-1:275151275639:key/31b8e29f-185d-4939-a0c2-009e538d3672
+[INFO ] 2022-02-25 10:22:10.390 [com.grsollinger.MigrationApp.main()] ListSecrets - Policy = null
+[INFO ] 2022-02-25 10:22:10.390 [com.grsollinger.MigrationApp.main()] GetKeyValueSecret - Resolving value for Key = prod/trimble/db/user2
+[INFO ] 2022-02-25 10:22:10.391 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-25 10:22:11.309 [com.grsollinger.MigrationApp.main()] GetSecretPolicy - getPolicy(String) - key = prod/trimble/db/user2
+[INFO ] 2022-02-25 10:22:11.310 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-25 10:22:12.132 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret name is prod/trimble/db/user2
+[INFO ] 2022-02-25 10:22:12.132 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret description is Access to same DB --- user 2
+[INFO ] 2022-02-25 10:22:12.133 [com.grsollinger.MigrationApp.main()] ListSecrets - ARN = arn:aws:secretsmanager:us-east-1:275151275639:secret:prod/trimble/db/user2-Qlwec8
+[INFO ] 2022-02-25 10:22:12.133 [com.grsollinger.MigrationApp.main()] ListSecrets - Secret = {"username":"db2","password":"mypassword","engine":"postgres","host":"database-1.ca12dmdxsjuu.us-east-1.rds.amazonaws.com","port":5432,"dbInstanceIdentifier":"database-1"}
+[INFO ] 2022-02-25 10:22:12.134 [com.grsollinger.MigrationApp.main()] ListSecrets - KMS Key Id arn:aws:kms:us-east-1:275151275639:alias/catrobot
+[INFO ] 2022-02-25 10:22:12.134 [com.grsollinger.MigrationApp.main()] ListSecrets - Policy = null
+[INFO ] 2022-02-28 12:10:43.775 [com.grsollinger.MigrationApp.main()] MigrationApp - Starting Migration Process AWS to Azure SECRETS------------------------------
+[INFO ] 2022-02-28 12:10:44.787 [com.grsollinger.MigrationApp.main()] MigrationApp - Starting MigrationApp using Java 11.0.13 on LNOR080727 with PID 12508 (D:\Development\Workspace\trimble-workspace\awsazmig\target\classes started by gsolling in D:\Development\Workspace\trimble-workspace\awsazmig)
+[DEBUG] 2022-02-28 12:10:44.788 [com.grsollinger.MigrationApp.main()] MigrationApp - Running with Spring Boot v2.4.0, Spring v5.3.1
+[INFO ] 2022-02-28 12:10:44.789 [com.grsollinger.MigrationApp.main()] MigrationApp - No active profile set, falling back to default profiles: default
+[INFO ] 2022-02-28 12:10:45.571 [com.grsollinger.MigrationApp.main()] MigrationApp - Started MigrationApp in 1.532 seconds (JVM running for 11.041)
+[INFO ] 2022-02-28 12:10:45.574 [com.grsollinger.MigrationApp.main()] AWSToAzure - Migration From AWS to Azure Started - Region = us-east-1
+[INFO ] 2022-02-28 12:10:45.576 [com.grsollinger.MigrationApp.main()] AWSToAzure - Migration From AWS to Azure Started - Arguments = SECRETS
+[INFO ] 2022-02-28 12:10:45.577 [com.grsollinger.MigrationApp.main()] AWSToAzure - AWS Secrets Manager to Azure Vault
+[INFO ] 2022-02-28 12:10:45.577 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-28 12:10:48.919 [com.grsollinger.MigrationApp.main()] ListSecrets - Amount of Secrets found = 3
+[INFO ] 2022-02-28 12:10:48.921 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[ERROR] 2022-02-28 12:10:49.799 [com.grsollinger.MigrationApp.main()] ListSecrets - 1 validation error detected: Value null at 'secretId' failed to satisfy constraint: Member must not be null
+[INFO ] 2022-02-28 12:15:38.634 [com.grsollinger.MigrationApp.main()] MigrationApp - Starting Migration Process AWS to Azure SECRETS------------------------------
+[INFO ] 2022-02-28 12:15:39.334 [com.grsollinger.MigrationApp.main()] MigrationApp - Starting MigrationApp using Java 11.0.13 on LNOR080727 with PID 20700 (D:\Development\Workspace\trimble-workspace\awsazmig\target\classes started by gsolling in D:\Development\Workspace\trimble-workspace\awsazmig)
+[DEBUG] 2022-02-28 12:15:39.336 [com.grsollinger.MigrationApp.main()] MigrationApp - Running with Spring Boot v2.4.0, Spring v5.3.1
+[INFO ] 2022-02-28 12:15:39.336 [com.grsollinger.MigrationApp.main()] MigrationApp - No active profile set, falling back to default profiles: default
+[INFO ] 2022-02-28 12:15:40.209 [com.grsollinger.MigrationApp.main()] MigrationApp - Started MigrationApp in 1.473 seconds (JVM running for 9.399)
+[INFO ] 2022-02-28 12:15:40.222 [com.grsollinger.MigrationApp.main()] AWSToAzure - Migration From AWS to Azure Started - Region = us-east-1
+[INFO ] 2022-02-28 12:15:40.224 [com.grsollinger.MigrationApp.main()] AWSToAzure - Migration From AWS to Azure Started - Arguments = SECRETS
+[INFO ] 2022-02-28 12:15:40.225 [com.grsollinger.MigrationApp.main()] AWSToAzure - AWS Secrets Manager to Azure Vault
+[INFO ] 2022-02-28 12:15:40.228 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-28 12:15:42.756 [com.grsollinger.MigrationApp.main()] ListSecrets - Amount of Secrets found = 3
+[INFO ] 2022-02-28 12:15:42.762 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-28 12:15:43.754 [com.grsollinger.MigrationApp.main()] ListSecrets - DescribeSecretResponse(ARN=arn:aws:secretsmanager:us-east-1:275151275639:secret:test/plaintext/trimble-DUiCg2, Name=test/plaintext/trimble, LastChangedDate=2022-02-09T17:16:41.374Z, LastAccessedDate=2022-02-25T00:00:00Z, Tags=[], VersionIdsToStages={352bafec-cde8-4c56-9875-f2263b2041f3=[AWSCURRENT]}, CreatedDate=2022-02-09T17:16:41.131Z)
+[INFO ] 2022-02-28 12:15:43.755 [com.grsollinger.MigrationApp.main()] GetKeyValueSecret - Resolving value for Key = test/plaintext/trimble
+[INFO ] 2022-02-28 12:15:43.756 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-28 12:15:44.662 [com.grsollinger.MigrationApp.main()] GetSecretPolicy - getPolicy(String) - key = test/plaintext/trimble
+[INFO ] 2022-02-28 12:15:44.663 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-28 12:15:45.490 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret name is test/plaintext/trimble
+[INFO ] 2022-02-28 12:15:45.491 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret description is null
+[INFO ] 2022-02-28 12:15:45.491 [com.grsollinger.MigrationApp.main()] ListSecrets - ARN = arn:aws:secretsmanager:us-east-1:275151275639:secret:test/plaintext/trimble-DUiCg2
+[INFO ] 2022-02-28 12:15:45.491 [com.grsollinger.MigrationApp.main()] ListSecrets - Secret = {"test":"trimble"}
+[INFO ] 2022-02-28 12:15:45.491 [com.grsollinger.MigrationApp.main()] ListSecrets - KMS Key Id null
+[INFO ] 2022-02-28 12:15:45.492 [com.grsollinger.MigrationApp.main()] ListSecrets - Policy = null
+[INFO ] 2022-02-28 12:15:45.492 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-28 12:15:46.290 [com.grsollinger.MigrationApp.main()] ListSecrets - DescribeSecretResponse(ARN=arn:aws:secretsmanager:us-east-1:275151275639:secret:dev/trimbe/dbenc-K2JipM, Name=dev/trimbe/dbenc, Description=DB Aurora Postgres DEV db encrypted, KmsKeyId=arn:aws:kms:us-east-1:275151275639:key/31b8e29f-185d-4939-a0c2-009e538d3672, LastChangedDate=2022-02-22T16:14:12.902Z, LastAccessedDate=2022-02-25T00:00:00Z, Tags=[Tag(Key=name, Value=dbaurorapos)], VersionIdsToStages={b0bc0e0c-36ef-4373-9a03-7b5b86df742a=[AWSCURRENT]}, CreatedDate=2022-02-22T16:14:12.819Z)
+[INFO ] 2022-02-28 12:15:46.291 [com.grsollinger.MigrationApp.main()] GetKeyValueSecret - Resolving value for Key = dev/trimbe/dbenc
+[INFO ] 2022-02-28 12:15:46.291 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-28 12:15:47.219 [com.grsollinger.MigrationApp.main()] GetSecretPolicy - getPolicy(String) - key = dev/trimbe/dbenc
+[INFO ] 2022-02-28 12:15:47.220 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-28 12:15:48.244 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret name is dev/trimbe/dbenc
+[INFO ] 2022-02-28 12:15:48.245 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret description is DB Aurora Postgres DEV db encrypted
+[INFO ] 2022-02-28 12:15:48.245 [com.grsollinger.MigrationApp.main()] ListSecrets - ARN = arn:aws:secretsmanager:us-east-1:275151275639:secret:dev/trimbe/dbenc-K2JipM
+[INFO ] 2022-02-28 12:15:48.246 [com.grsollinger.MigrationApp.main()] ListSecrets - Secret = {"username":"db","password":"dbpassword","engine":"postgres","host":"database-1.ca12dmdxsjuu.us-east-1.rds.amazonaws.com","port":5432,"dbInstanceIdentifier":"database-1"}
+[INFO ] 2022-02-28 12:15:48.246 [com.grsollinger.MigrationApp.main()] ListSecrets - KMS Key Id arn:aws:kms:us-east-1:275151275639:key/31b8e29f-185d-4939-a0c2-009e538d3672
+[INFO ] 2022-02-28 12:15:48.247 [com.grsollinger.MigrationApp.main()] ListSecrets - Policy = null
+[INFO ] 2022-02-28 12:15:48.247 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-28 12:15:49.079 [com.grsollinger.MigrationApp.main()] ListSecrets - DescribeSecretResponse(ARN=arn:aws:secretsmanager:us-east-1:275151275639:secret:prod/trimble/db/user2-Qlwec8, Name=prod/trimble/db/user2, Description=Access to same DB --- user 2, KmsKeyId=arn:aws:kms:us-east-1:275151275639:alias/catrobot, LastChangedDate=2022-02-24T13:24:32.211Z, LastAccessedDate=2022-02-25T00:00:00Z, Tags=[Tag(Key=name, Value=user2)], VersionIdsToStages={f7a5a245-bdca-4f50-97ed-0f51789dfb2d=[AWSPREVIOUS], d9bd6457-5034-4e5b-aee9-0b3c9a11dc62=[AWSCURRENT]}, CreatedDate=2022-02-24T13:23:45.826Z)
+[INFO ] 2022-02-28 12:15:49.079 [com.grsollinger.MigrationApp.main()] GetKeyValueSecret - Resolving value for Key = prod/trimble/db/user2
+[INFO ] 2022-02-28 12:15:49.080 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-28 12:15:50.087 [com.grsollinger.MigrationApp.main()] GetSecretPolicy - getPolicy(String) - key = prod/trimble/db/user2
+[INFO ] 2022-02-28 12:15:50.087 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-28 12:15:51.008 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret name is prod/trimble/db/user2
+[INFO ] 2022-02-28 12:15:51.008 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret description is Access to same DB --- user 2
+[INFO ] 2022-02-28 12:15:51.009 [com.grsollinger.MigrationApp.main()] ListSecrets - ARN = arn:aws:secretsmanager:us-east-1:275151275639:secret:prod/trimble/db/user2-Qlwec8
+[INFO ] 2022-02-28 12:15:51.009 [com.grsollinger.MigrationApp.main()] ListSecrets - Secret = {"username":"db2","password":"mypassword","engine":"postgres","host":"database-1.ca12dmdxsjuu.us-east-1.rds.amazonaws.com","port":5432,"dbInstanceIdentifier":"database-1"}
+[INFO ] 2022-02-28 12:15:51.010 [com.grsollinger.MigrationApp.main()] ListSecrets - KMS Key Id arn:aws:kms:us-east-1:275151275639:alias/catrobot
+[INFO ] 2022-02-28 12:15:51.010 [com.grsollinger.MigrationApp.main()] ListSecrets - Policy = null
+[INFO ] 2022-02-28 12:16:54.178 [com.grsollinger.MigrationApp.main()] MigrationApp - Starting Migration Process AWS to Azure SECRETS------------------------------
+[INFO ] 2022-02-28 12:16:55.545 [com.grsollinger.MigrationApp.main()] MigrationApp - Starting MigrationApp using Java 11.0.13 on LNOR080727 with PID 15672 (D:\Development\Workspace\trimble-workspace\awsazmig\target\classes started by gsolling in D:\Development\Workspace\trimble-workspace\awsazmig)
+[DEBUG] 2022-02-28 12:16:55.547 [com.grsollinger.MigrationApp.main()] MigrationApp - Running with Spring Boot v2.4.0, Spring v5.3.1
+[INFO ] 2022-02-28 12:16:55.547 [com.grsollinger.MigrationApp.main()] MigrationApp - No active profile set, falling back to default profiles: default
+[INFO ] 2022-02-28 12:16:56.830 [com.grsollinger.MigrationApp.main()] MigrationApp - Started MigrationApp in 2.538 seconds (JVM running for 11.439)
+[INFO ] 2022-02-28 12:16:56.843 [com.grsollinger.MigrationApp.main()] AWSToAzure - Migration From AWS to Azure Started - Region = us-east-1
+[INFO ] 2022-02-28 12:16:56.844 [com.grsollinger.MigrationApp.main()] AWSToAzure - Migration From AWS to Azure Started - Arguments = SECRETS
+[INFO ] 2022-02-28 12:16:56.844 [com.grsollinger.MigrationApp.main()] AWSToAzure - AWS Secrets Manager to Azure Vault
+[INFO ] 2022-02-28 12:16:56.844 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-28 12:16:59.958 [com.grsollinger.MigrationApp.main()] ListSecrets - Amount of Secrets found = 3
+[INFO ] 2022-02-28 12:16:59.959 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-28 12:17:00.807 [com.grsollinger.MigrationApp.main()] ListSecrets - Response: DescribeSecretResponse(ARN=arn:aws:secretsmanager:us-east-1:275151275639:secret:test/plaintext/trimble-DUiCg2, Name=test/plaintext/trimble, LastChangedDate=2022-02-09T17:16:41.374Z, LastAccessedDate=2022-02-28T00:00:00Z, Tags=[], VersionIdsToStages={352bafec-cde8-4c56-9875-f2263b2041f3=[AWSCURRENT]}, CreatedDate=2022-02-09T17:16:41.131Z)
+[INFO ] 2022-02-28 12:17:00.809 [com.grsollinger.MigrationApp.main()] GetKeyValueSecret - Resolving value for Key = test/plaintext/trimble
+[INFO ] 2022-02-28 12:17:00.813 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-28 12:17:01.658 [com.grsollinger.MigrationApp.main()] GetSecretPolicy - getPolicy(String) - key = test/plaintext/trimble
+[INFO ] 2022-02-28 12:17:01.658 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-28 12:17:02.453 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret name is test/plaintext/trimble
+[INFO ] 2022-02-28 12:17:02.454 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret description is null
+[INFO ] 2022-02-28 12:17:02.454 [com.grsollinger.MigrationApp.main()] ListSecrets - ARN = arn:aws:secretsmanager:us-east-1:275151275639:secret:test/plaintext/trimble-DUiCg2
+[INFO ] 2022-02-28 12:17:02.455 [com.grsollinger.MigrationApp.main()] ListSecrets - Secret = {"test":"trimble"}
+[INFO ] 2022-02-28 12:17:02.456 [com.grsollinger.MigrationApp.main()] ListSecrets - KMS Key Id null
+[INFO ] 2022-02-28 12:17:02.456 [com.grsollinger.MigrationApp.main()] ListSecrets - Policy = null
+[INFO ] 2022-02-28 12:17:02.456 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-28 12:17:03.267 [com.grsollinger.MigrationApp.main()] ListSecrets - Response: DescribeSecretResponse(ARN=arn:aws:secretsmanager:us-east-1:275151275639:secret:dev/trimbe/dbenc-K2JipM, Name=dev/trimbe/dbenc, Description=DB Aurora Postgres DEV db encrypted, KmsKeyId=arn:aws:kms:us-east-1:275151275639:key/31b8e29f-185d-4939-a0c2-009e538d3672, LastChangedDate=2022-02-22T16:14:12.902Z, LastAccessedDate=2022-02-28T00:00:00Z, Tags=[Tag(Key=name, Value=dbaurorapos)], VersionIdsToStages={b0bc0e0c-36ef-4373-9a03-7b5b86df742a=[AWSCURRENT]}, CreatedDate=2022-02-22T16:14:12.819Z)
+[INFO ] 2022-02-28 12:17:03.268 [com.grsollinger.MigrationApp.main()] GetKeyValueSecret - Resolving value for Key = dev/trimbe/dbenc
+[INFO ] 2022-02-28 12:17:03.269 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-28 12:17:04.160 [com.grsollinger.MigrationApp.main()] GetSecretPolicy - getPolicy(String) - key = dev/trimbe/dbenc
+[INFO ] 2022-02-28 12:17:04.160 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-28 12:17:05.220 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret name is dev/trimbe/dbenc
+[INFO ] 2022-02-28 12:17:05.221 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret description is DB Aurora Postgres DEV db encrypted
+[INFO ] 2022-02-28 12:17:05.222 [com.grsollinger.MigrationApp.main()] ListSecrets - ARN = arn:aws:secretsmanager:us-east-1:275151275639:secret:dev/trimbe/dbenc-K2JipM
+[INFO ] 2022-02-28 12:17:05.222 [com.grsollinger.MigrationApp.main()] ListSecrets - Secret = {"username":"db","password":"dbpassword","engine":"postgres","host":"database-1.ca12dmdxsjuu.us-east-1.rds.amazonaws.com","port":5432,"dbInstanceIdentifier":"database-1"}
+[INFO ] 2022-02-28 12:17:05.223 [com.grsollinger.MigrationApp.main()] ListSecrets - KMS Key Id arn:aws:kms:us-east-1:275151275639:key/31b8e29f-185d-4939-a0c2-009e538d3672
+[INFO ] 2022-02-28 12:17:05.224 [com.grsollinger.MigrationApp.main()] ListSecrets - Policy = null
+[INFO ] 2022-02-28 12:17:05.224 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-28 12:17:06.054 [com.grsollinger.MigrationApp.main()] ListSecrets - Response: DescribeSecretResponse(ARN=arn:aws:secretsmanager:us-east-1:275151275639:secret:prod/trimble/db/user2-Qlwec8, Name=prod/trimble/db/user2, Description=Access to same DB --- user 2, KmsKeyId=arn:aws:kms:us-east-1:275151275639:alias/catrobot, LastChangedDate=2022-02-24T13:24:32.211Z, LastAccessedDate=2022-02-28T00:00:00Z, Tags=[Tag(Key=name, Value=user2)], VersionIdsToStages={f7a5a245-bdca-4f50-97ed-0f51789dfb2d=[AWSPREVIOUS], d9bd6457-5034-4e5b-aee9-0b3c9a11dc62=[AWSCURRENT]}, CreatedDate=2022-02-24T13:23:45.826Z)
+[INFO ] 2022-02-28 12:17:06.056 [com.grsollinger.MigrationApp.main()] GetKeyValueSecret - Resolving value for Key = prod/trimble/db/user2
+[INFO ] 2022-02-28 12:17:06.057 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-28 12:17:06.889 [com.grsollinger.MigrationApp.main()] GetSecretPolicy - getPolicy(String) - key = prod/trimble/db/user2
+[INFO ] 2022-02-28 12:17:06.889 [com.grsollinger.MigrationApp.main()] CreateSecretClient - List Secrets for Region = us-east-1
+[INFO ] 2022-02-28 12:17:07.698 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret name is prod/trimble/db/user2
+[INFO ] 2022-02-28 12:17:07.699 [com.grsollinger.MigrationApp.main()] ListSecrets - The secret description is Access to same DB --- user 2
+[INFO ] 2022-02-28 12:17:07.700 [com.grsollinger.MigrationApp.main()] ListSecrets - ARN = arn:aws:secretsmanager:us-east-1:275151275639:secret:prod/trimble/db/user2-Qlwec8
+[INFO ] 2022-02-28 12:17:07.701 [com.grsollinger.MigrationApp.main()] ListSecrets - Secret = {"username":"db2","password":"mypassword","engine":"postgres","host":"database-1.ca12dmdxsjuu.us-east-1.rds.amazonaws.com","port":5432,"dbInstanceIdentifier":"database-1"}
+[INFO ] 2022-02-28 12:17:07.702 [com.grsollinger.MigrationApp.main()] ListSecrets - KMS Key Id arn:aws:kms:us-east-1:275151275639:alias/catrobot
+[INFO ] 2022-02-28 12:17:07.703 [com.grsollinger.MigrationApp.main()] ListSecrets - Policy = null
